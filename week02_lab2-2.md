@@ -721,7 +721,7 @@ class _CounterSectionState extends State<CounterSection> {
 }
 ```
 
-**ขั้นตอนที่ 2** แก้ `body` ของ `HomePage` เพื่อแสดง `CounterSection`:
+**ขั้นตอนที่ 2** แก้ `body` ของ `HomePage` เดิม เพื่อแสดง `CounterSection` (ลบโค้ดส่วนของ body เดิมออกทั้งหมด แล้วแทนด้วยโค้ด 1 บรรทัดด้านล่าง:
 
 ```dart
       body: const CounterSection(),

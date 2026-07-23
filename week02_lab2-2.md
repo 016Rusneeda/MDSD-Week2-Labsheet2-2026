@@ -1477,8 +1477,13 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 เลือกทำอย่างน้อย **2 ข้อ** จากโจทย์ด้านล่าง:
 
 **โจทย์ A (ง่าย):** เพิ่ม Tab ที่ 4 ชื่อ "About" แสดงชื่อ รหัสนักศึกษา และคณะของตัวเอง พร้อมรูป Avatar (ใช้ `CircleAvatar` กับ Text แรกของชื่อ)
+<img width="1536" height="862" alt="image" src="https://github.com/user-attachments/assets/ec5a3753-5f4f-438e-8374-50a5c31a0fc6" />
+
 
 **โจทย์ B (กลาง):** ใน Counter Page เพิ่ม History ที่บันทึกทุกการกระทำ (เพิ่ม/ลด/Reset) พร้อมเวลา เช่น "14:30:25 — เพิ่ม 5 (รวม: 15)" แสดงเป็น List ด้านล่าง Counter และมีปุ่ม "ล้าง History"
+<img width="1535" height="818" alt="image" src="https://github.com/user-attachments/assets/c3cdee52-f290-4b8e-a8f8-dfb4029dfad1" />
+<img width="1536" height="825" alt="image" src="https://github.com/user-attachments/assets/40403e64-4dd8-4754-90d5-25c128e1b07f" />
+
 
 **โจทย์ C (กลาง):** ใน Form Page เพิ่ม Dropdown เลือก "ภาษาของคำทักทาย" (ไทย / อังกฤษ / ญี่ปุ่น) และเปลี่ยนข้อความคำทักทายตามภาษาที่เลือก
 

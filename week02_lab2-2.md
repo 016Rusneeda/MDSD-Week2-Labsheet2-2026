@@ -1424,9 +1424,14 @@ class _GreetingFormState extends State<GreetingForm> {
 **ขั้นตอนที่ 3** ทดสอบทุก Tab และทุก Feature
 
 **บันทึกรูปผลการทดลอง**
-```
-บันทึกรูปที่นี่
-```
+<img width="1536" height="815" alt="image" src="https://github.com/user-attachments/assets/d55a91d2-ae56-4105-9283-cc59339c4757" />
+<img width="1536" height="821" alt="image" src="https://github.com/user-attachments/assets/9f810d6a-982e-46da-899a-27e1ed1723e4" />
+<img width="1536" height="813" alt="image" src="https://github.com/user-attachments/assets/7afae085-923c-4d1f-a57a-6be7c675cb01" />
+<img width="1536" height="822" alt="image" src="https://github.com/user-attachments/assets/a2f72ea9-802a-4b65-96e6-9a002cd77c15" />
+<img width="1536" height="820" alt="image" src="https://github.com/user-attachments/assets/e3a6f248-c797-4a23-b1c9-3756cc051a17" />
+<img width="1536" height="812" alt="image" src="https://github.com/user-attachments/assets/32661b26-b2fe-4bf9-a625-440122f54f93" />
+<img width="1536" height="816" alt="image" src="https://github.com/user-attachments/assets/30bb46be-be01-41ea-b283-451c97f25560" />
+
 ---
 
 ### การทดลองที่ 8 — Hot Reload vs Hot Restart

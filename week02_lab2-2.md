@@ -1455,20 +1455,20 @@ colorScheme: ColorScheme.fromSeed(seedColor: Colors.teal),
 
 | | หลัง Hot Reload |
 |--|--|
-| สี Theme | |
-| ค่า Counter | |
+| สี Theme | เขียวอมฟ้า (teal) |
+| ค่า Counter | 15 |
 
 **ขั้นตอนที่ 5** กด **Hot Restart** (พิมพ์ `R` ใน Terminal หรือกด 🔄)
 
 | | หลัง Hot Restart |
 |--|--|
-| สี Theme | |
-| ค่า Counter | |
+| สี Theme | เขียวอมฟ้า (teal) |
+| ค่า Counter | 0 |
 
 **ขั้นตอนที่ 6** อธิบายผลลัพธ์:
 
-> Hot Reload: สี __________ Counter __________ เพราะ __________
-> Hot Restart: สี __________ Counter __________ เพราะ __________
+> Hot Reload: สี เขียวอมฟ้า (teal) Counter 15 เพราะ Hot Reload จะดึงแค่โค้ด UI ที่แก้ใหม่ไปวาดหน้าจอ (rebuild) โดยจะคงค่า State เดิมในหน่วยความจำเอาไว้ ทำให้แอปไม่ต้องเริ่มนับหนึ่งใหม่
+> Hot Restart: สี ขียวอมฟ้า (teal) Counter 0 เพราะ Hot Restart จะล้าง State เดิมทิ้งทั้งหมดแล้วรันโค้ดใหม่ตั้งแต่บรรทัด main() ทำให้ตัวแปรถูกรีเซ็ตกลับไปเป็นค่าเริ่มต้นทั้งหมด
 
 ---
 
